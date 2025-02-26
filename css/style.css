@@ -117,8 +117,7 @@ padding-right: 40px;
     cursor: pointer;
 }
 .order-button:hover{
-  background-color: #404BBF;
-  cursor: pointer;
+  background-color: #404BBF;  
 }
 
 .info{
@@ -170,6 +169,13 @@ padding-right: 40px;
     justify-content: center;
     align-items: center;
 }
+
+.team-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em
+}
 .team-list{
     margin: 0;
     padding: 0;
@@ -208,8 +214,9 @@ padding-right: 40px;
     font-family: 'Roboto', sans-serif;
     font-weight: regular;
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
     margin: 0;
     padding: 0;
 }
