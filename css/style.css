@@ -99,18 +99,6 @@ padding-right: 40px;
 
 /* section-info-start */
 
-.info-header{
-    font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-    line-height: 1.2;
-    color: #2e2f42;
-    text-align: center;
-    margin: 0 auto;
-    padding: 0;
-}
-
 .main-header{
     display: flex;
     flex-direction: column;
@@ -154,6 +142,22 @@ padding-right: 40px;
   background-color: #404BBF;  
 }
 
+/* section-info-end */
+
+/* section-info-start */
+
+.info-header {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: #2e2f42;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+}
+
 .info{
     background-color: white;
     width: 100%;
@@ -177,8 +181,9 @@ padding-right: 40px;
 .info-list-header{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    font-weight: medium;
-    letter-spacing: 2px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
     color: #2E2F42;
 }
 
@@ -191,6 +196,12 @@ padding-right: 40px;
     color: #434455;
 }
 
+/* section-info-end */
+
+
+
+/* section-team-start */
+
 .team{
     background-color: #F4F4FD;
     width: 100%; 
@@ -202,10 +213,14 @@ padding-right: 40px;
 }
 
 .team-header{
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 .team-list{
     margin: 0;
@@ -234,8 +249,9 @@ padding-right: 40px;
 .team-list-header{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    font-weight: medium;
-    letter-spacing: 2px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
     color: #2E2F42;
     margin: 0;
     padding: 32px 0px 13px 0px;
