@@ -57,10 +57,20 @@ header{
 
 .menu-item{
    color: #2e2f42; 
+
 }
-.menu li a{
+.menu-item-link{
     text-decoration: none;
-    color: #2E2F42;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #404bbf;
+}
+
+.menu-item-link:hover{
+    color: #404bbf;
 }
 
 .contacts li a{
@@ -367,7 +377,7 @@ footer{
 }
 
 .footer-logo-item {
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 .footer-text{
