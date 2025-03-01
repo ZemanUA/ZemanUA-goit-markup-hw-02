@@ -73,10 +73,29 @@ header{
     color: #404bbf;
 }
 
-.contacts li a{
+.contacts{
+    font-style: normal;
+}
+
+.contacts-item{
     text-decoration: none;
     color: #2E2F42;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: regular;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #434455;
 }
+
+.contacts-item a :focus{
+    color: #404bbf;
+}
+
+.contacts-item a :hover{
+ color: #404bbf;
+}
+
 menu:first-child{
     gap: 0px;
 }
