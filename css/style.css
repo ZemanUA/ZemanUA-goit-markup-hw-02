@@ -149,6 +149,7 @@ padding-right: 40px;
     white-space: pre-line;
     width: max-content;
     text-align: center;
+    background-color: #4D5AE5;
 }
 
 .order-button{
@@ -347,16 +348,6 @@ padding-right: 40px;
     width: 360px;
 }
 
-.portfolio-list-item p{
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    font-weight: regular;
-    letter-spacing: 1px;
-    line-height: 24px;
-    color: #2E2F42;
-    margin: 0;
-    padding: 0;
-}
 
 .portfolio-list-header{
     font-family: 'Roboto', sans-serif;
@@ -367,6 +358,17 @@ padding-right: 40px;
     color: #2E2F42;
     margin: 0;
     padding: 32px 0px 18px 0px;
+}
+
+.portfolio-list-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: regular;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
+    color: #434455;
+    margin: 0;
+    padding: 0;
 }
 
 /* section-portfolio-end */
