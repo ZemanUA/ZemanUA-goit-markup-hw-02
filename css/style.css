@@ -28,7 +28,7 @@ header{
     margin: 0%;
     display: flex;
     align-items: center;
-    gap: 40px;
+
 }
 
 .menu{
@@ -106,13 +106,6 @@ header{
 
 .contacts-item-link:hover{
  color: #404bbf;
-}
-
-menu:first-child{
-    gap: 0px;
-}
-menu:last-child{
-    gap: 0px;
 }
 
 .contacts {
