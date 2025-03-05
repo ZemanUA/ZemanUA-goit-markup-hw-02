@@ -1,18 +1,15 @@
 html{
     margin: 0;
-    padding: 0;
 }
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #434455;
     margin: 0;
-    padding: 0;
 }
 
 /* header */
 header{
-    padding: 0%;
     margin: 0;
     display: flex;
     justify-content: space-between;
@@ -29,7 +26,6 @@ header{
 
 .navigation{
     margin: 0%;
-    padding: 0%;
     display: flex;
     align-items: center;
     gap: 40px;
@@ -37,7 +33,6 @@ header{
 
 .menu{
     margin: 0%;
-    padding: 0%;
     list-style-type: none;
     display: flex;
     justify-content: space-around;
@@ -122,7 +117,6 @@ menu:last-child{
 
 .contacts {
     margin: 0%;
-    padding: 0%;
     list-style-type: none;
     display: flex;
     justify-content: space-around;
@@ -175,7 +169,6 @@ padding-right: 40px;
     padding: 32px 16px;
     background-color: #4D5AE5;
     color: white;
-    padding: 0;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -204,7 +197,6 @@ padding-right: 40px;
     color: #2e2f42;
     text-align: center;
     margin: 0 auto;
-    padding: 0;
 }
 
 .info{
@@ -263,7 +255,6 @@ padding-right: 40px;
 }
 .team-list{
     margin: 0;
-    padding: 0;
     list-style-type: none;
     display: flex;
     justify-content: center;
@@ -296,8 +287,6 @@ padding-right: 40px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin: 0;
-    padding: 0;
 }
 
 /* section=team-end */
@@ -320,7 +309,6 @@ padding-right: 40px;
     text-align: center;
     text-transform: capitalize;
     margin: 0 auto;
-    padding: 0;
 }
 
 .portfolio-list{
@@ -329,15 +317,12 @@ padding-right: 40px;
     justify-content: center;
     gap: 24px;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 
 .portfolio-list-item{
     width: 360px;
     height: 420px;
     background-color: white;
-
     padding-bottom: 20px;
 }
 
@@ -361,8 +346,6 @@ padding-right: 40px;
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #434455;
-    margin: 0;
-    padding: 0;
 }
 
 /* section-portfolio-end */
@@ -401,5 +384,4 @@ footer{
     line-height: 1.5;
     color: #F4F4FD;
     margin: 0;
-    padding: 0;
 }
