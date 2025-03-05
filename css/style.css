@@ -194,6 +194,10 @@ padding-right: 40px;
   background-color: #404BBF;  
 }
 
+.order-button:focus{
+    background-color: #404BBF;
+}
+
 /* section-info-end */
 
 /* section-info-start */
