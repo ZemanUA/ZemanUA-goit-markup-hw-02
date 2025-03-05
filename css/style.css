@@ -15,7 +15,6 @@ header{
     padding: 0%;
     margin: 0;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     width: 100%;
@@ -33,7 +32,6 @@ header{
     margin: 0%;
     padding: 0%;
     display: flex;
-    flex-direction: row;
     align-items: center;
     gap: 40px;
 }
@@ -44,7 +42,6 @@ header{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
-    flex-direction: row;
     gap: 40px;
     align-items: center;
     color: white;
@@ -131,7 +128,6 @@ menu:last-child{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
-    flex-direction: row;
     align-items: center;
     color: white;
 }
@@ -227,7 +223,6 @@ padding-right: 40px;
 
 .info-list{
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     gap: 24px;
@@ -283,7 +278,6 @@ padding-right: 40px;
     padding: 0;
     list-style-type: none;
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 24px;
@@ -348,7 +342,6 @@ padding-right: 40px;
 
 .portfolio-list{
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
