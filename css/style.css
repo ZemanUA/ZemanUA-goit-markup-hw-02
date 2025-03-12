@@ -9,7 +9,6 @@ body{
 header{
     display: flex;
     justify-content: space-between;
-    height: 72px;
     font-family: 'Roboto', sans-serif;
     font-weight: regular;
     font-size:16px;
@@ -121,7 +120,6 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 600px;
     background-color: #2E2F42;
 }
 
@@ -173,7 +171,6 @@ header{
 
 .info{
     background-color: white;
-    height: 330px;
 }
 
 
@@ -209,7 +206,6 @@ header{
 
 .team{
     background-color: #F4F4FD;
-    height: 730px;
 }
 
 .team-header{
@@ -230,7 +226,6 @@ header{
 }
 
 .team-list-item{
-    height: 380px;
     background-color: white;
 }
 
@@ -259,7 +254,6 @@ header{
 
 .portfolio{
     background-color: white;
-    height: 1250px;
 }
 
 .portfolio-header{
@@ -281,7 +275,6 @@ header{
 }
 
 .portfolio-list-item{
-    height: 420px;
     background-color: white;
 }
 
@@ -312,7 +305,6 @@ header{
 
 footer{
     background-color: #2E2F42;
-    height: 312px;
 
 }
 
